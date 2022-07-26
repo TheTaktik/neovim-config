@@ -1,0 +1,9 @@
+*
+!.gitignore
+!lua/
+!lua/thetaktik/
+!lua/thetaktik/*
+!after/
+!after/plugin/
+!after/plugin/*
+!init.lua
