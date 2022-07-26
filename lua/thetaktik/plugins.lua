@@ -39,6 +39,8 @@ Plug('nvim-treesitter/nvim-treesitter', {
 Plug 'nvim-treesitter/playground'
 -- Debugger
 Plug 'puremourning/vimspector'
+-- Hydra
+Plug 'anuvyklack/hydra.nvim'
 
 vim.call("plug#end")
 vim.call("plug#helptags")
